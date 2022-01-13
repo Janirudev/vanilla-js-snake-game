@@ -1,0 +1,1 @@
+## This is a Vanilla JS Snake game made following a Yotube Tutorial by [WebDevSimpified](https://www.youtube.com/watch?v=QTcIXok9wNY)
